@@ -1,18 +1,17 @@
-# Slider-Configurations
 
 Control Panel → Network and Internet → Network and Sharing Center. 
 1 -Change adapter settings.
 	Ethernet → Properties.
 	Internet Protocol Version 4 (TCP/IPv4) → Properties.
 
-lap 1:
+	lap 1:
 		IP address: 192.168.100.1
 		Subnet mask: 255.255.255.0
 		Default gateway:192.168.0.1
 		DNS
 		 : 8.8.8.8
 		 : 8.8.4.4
-lap 2:
+	lap 2:
 		IP address: 192.168.100.3
 		Subnet mask: 255.255.255.0
 		Default gateway:192.168.0.1
