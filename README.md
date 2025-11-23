@@ -62,7 +62,7 @@ Ensure the following services are set to **Automatic & Running**:
 ## 6. AnyDesk Remote Access
 
 * Password: Admin@1234
-* 192.168.100.1 → boduim
+* 192.168.100.1 → Podium
 * 192.168.100.3 → me
 
 ---
